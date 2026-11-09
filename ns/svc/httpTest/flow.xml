@@ -15,7 +15,7 @@
   <record name="xml" javaclass="com.wm.util.Values">
     <value name="node_type">record</value>
     <value name="node_subtype">unknown</value>
-    <value name="is_public">false</value>
+    <value name="is_public">true</value>
     <value name="field_name">httpInput</value>
     <value name="field_type">record</value>
     <value name="field_dim">0</value>
@@ -538,7 +538,7 @@
   <record name="xml" javaclass="com.wm.util.Values">
     <value name="node_type">record</value>
     <value name="node_subtype">unknown</value>
-    <value name="is_public">false</value>
+    <value name="is_public">true</value>
     <value name="field_name">bytesToStringInput</value>
     <value name="field_type">record</value>
     <value name="field_dim">0</value>
