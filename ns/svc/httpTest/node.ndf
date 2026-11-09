@@ -85,6 +85,6 @@
   <value name="is_public">true</value>
   <value name="favorite">No</value>
   <value name="deprecated">No</value>
-  <value name="is_visible">false</value>
+  <value name="is_visible">true</value>
   <value name="fsl_based">true</value>
 </Values>
