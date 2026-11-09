@@ -11,5 +11,5 @@
     <value name="createdDate">2026-11-09T12:03:06.015472Z</value>
     <value name="lastModifiedDate">2026-11-09T12:03:06.015472Z</value>
   </record>
-  <value name="is_public">false</value>
+  <value name="is_public">true</value>
 </Values>
